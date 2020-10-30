@@ -1,0 +1,11 @@
+---
+title: "Weeek 4 Part 1 - Cis and t-tests"
+author: "Madeline"
+date: "10/29/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
